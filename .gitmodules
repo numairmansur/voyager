@@ -1,0 +1,3 @@
+[submodule "graphFuzz"]
+	path = graphFuzz
+	url = https://github.com/numairmansur/graphFuzz.git
